@@ -15,6 +15,6 @@
     padding: 15px 15px;
 }
 
-.table tbody tr {
+.table tbody {
     border-bottom: 1px solid black;
 }
