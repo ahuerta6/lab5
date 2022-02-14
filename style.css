@@ -12,7 +12,7 @@
 
 .table th,
 .table td {
-    padding: auto;
+    padding: 15px 15px;
 }
 
 .table tbody tr{
