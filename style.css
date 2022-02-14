@@ -10,19 +10,6 @@
     
 }
 
-.table th,
-.table td {
-    padding: 15px 15px;
-}
-
-.table tbody tr {
-    font-weight: 700;
-}
-
-.table tbody td {
-    border-bottom: 1px solid black;
-}
-
 #neptune {
     color: blue;
 }
@@ -34,3 +21,18 @@
 #earth {
     color: green;
 }
+
+.table th,
+.table td {
+    padding: 15px 15px;
+}
+
+.table tbody tr {
+    font-weight: 700;
+    color: red;
+}
+
+.table tbody td {
+    border-bottom: 1px solid black;
+}
+
