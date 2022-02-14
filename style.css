@@ -16,10 +16,21 @@
 }
 
 .table tbody tr {
-    color: red;
     font-weight: 700;
 }
 
 .table tbody td {
     border-bottom: 1px solid black;
+}
+
+#neptune {
+    color: blue;
+}
+
+#venus {
+    color: orange;
+}
+
+#earth {
+    color: green;
 }
