@@ -15,6 +15,11 @@
     padding: 15px 15px;
 }
 
+.table tbody tr {
+    color: red;
+    font-weight: 700;
+}
+
 .table tbody td {
     border-bottom: 1px solid black;
 }
