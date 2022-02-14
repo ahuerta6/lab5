@@ -1,9 +1,9 @@
-table-style {
+.table {
     color: black; 
     border: 1px solid rgb(0, 0, 0);
 }
 
-#table-style thead {
+.table thead tr{
     background-color: black;
     color: white;
     text-align: left;
