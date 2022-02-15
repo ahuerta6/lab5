@@ -31,12 +31,12 @@ h1 {
 
 .table td {
     padding: 15px 15px;
+    background-color: grey;
 }
 
 .table tbody tr {
     font-weight: 700;
     color: red;
-    background-color: grey;
 }
 
 .table tbody td {
