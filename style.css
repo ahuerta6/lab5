@@ -1,16 +1,16 @@
+.main {
+    background-color: blueviolet;
+}
+
 h1 {
     color: navy;
     text-align: center;
-
 }
 
-p {
+div {
     text-align: center;
 }
 
-image {
-    text-align: center;
-}
 .table {
     color: black; 
 }
