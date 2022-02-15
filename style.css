@@ -9,7 +9,7 @@ p {
 }
 
 image {
-    text-align: center;
+    float: center;
 }
 .table {
     color: black; 
