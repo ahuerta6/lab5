@@ -11,6 +11,11 @@ div {
     text-align: center;
 }
 
+p {
+    font-style: italic;
+    font-weight: 400;
+}
+
 .table {
     color: black; 
 }
