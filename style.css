@@ -3,7 +3,7 @@
 }
 
 h1 {
-    color: navy;
+    color: white;
     text-align: center;
     font-family: arial;
 }
@@ -16,6 +16,7 @@ p {
     font-family: arial;
     font-style: italic;
     font-weight: 400;
+    color: white;
 }
 
 .table {
