@@ -5,6 +5,7 @@
 h1 {
     color: navy;
     text-align: center;
+    font-family: arial;
 }
 
 div {
@@ -12,6 +13,7 @@ div {
 }
 
 p {
+    font-family: arial;
     font-style: italic;
     font-weight: 400;
 }
@@ -24,6 +26,7 @@ p {
     background-color: black;
     color: white;
     text-align: left;
+    font-family: arial;
     font-weight: 700;
 }
 
@@ -44,6 +47,7 @@ p {
 }
 
 .table tbody tr {
+    font-family: arial;
     font-weight: 700;
     color: red;
 }
