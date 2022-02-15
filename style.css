@@ -4,8 +4,12 @@ h1 {
 
 }
 
-image {
+p {
+    text-align: center;
+}
 
+image {
+    text-align: center;
 }
 .table {
     color: black; 
