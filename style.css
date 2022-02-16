@@ -21,6 +21,7 @@ p {
 
 .imgtable thead th{
     text-align: center;
+    width: 33%;
 }
 
 .table {
