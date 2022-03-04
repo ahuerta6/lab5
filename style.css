@@ -1,5 +1,6 @@
-#main {
+body {
     background-color: blueviolet;
+    margin: 0;
 }
 
 h1 {
