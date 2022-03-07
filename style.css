@@ -69,6 +69,8 @@ td {
 .table tbody td {
     border: 1px solid white;
     border-collapse: inherit;
-    background-color: transparent
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
 }
 
