@@ -60,6 +60,7 @@ td {
 
 .table tbody tr {
     font-family: 'Smooch Sans', sans-serif;
+    font-size: 25px;
     font-weight: 700;
     color: red;
 }
