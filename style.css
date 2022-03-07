@@ -39,7 +39,7 @@ p {
     font-weight: 700;
 }
 
-.table tbody {
+.table tbody td {
     background-color: transparent;
 }
 
