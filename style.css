@@ -39,10 +39,6 @@ p {
     font-weight: 700;
 }
 
-.table tbody td {
-    background-color: transparent;
-}
-
 #neptune {
     color: blue;
 }
@@ -63,6 +59,7 @@ p {
     font-family: arial;
     font-weight: 700;
     color: red;
+    background-color: transparent;
 }
 
 .table tbody td {
