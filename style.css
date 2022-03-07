@@ -32,7 +32,7 @@ p {
 }
 
 .table thead tr {
-    background-color: black;
+    background-color: transparent;
     color: white;
     text-align: left;
     font-family: arial;
