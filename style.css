@@ -39,17 +39,17 @@ p {
     font-weight: 700;
 }
 
-#neptune {
+#neptune tr{
     color: blue;
     background-color: transparent;
 }
 
-#venus {
+#venus tr{
     color: orange;
     background-color: transparent;
 }
 
-#earth {
+#earth tr{
     color: green;
     background-color: transparent;
 }
