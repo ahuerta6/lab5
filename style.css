@@ -41,18 +41,22 @@ p {
 
 #neptune {
     color: blue;
+    background-color: transparent;
 }
 
 #venus {
     color: orange;
+    background-color: transparent;
 }
 
 #earth {
     color: green;
+    background-color: transparent;
 }
 
 .table td {
     padding: 15px 15px;
+    background-color: transparent;
 }
 
 .table tbody tr {
