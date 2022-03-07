@@ -41,17 +41,14 @@ p {
 
 #neptune {
     color: blue;
-    background-color: transparent;
 }
 
 #venus {
     color: orange;
-    background-color: transparent;
 }
 
 #earth {
     color: green;
-    background-color: transparent;
 }
 
 td {
@@ -63,7 +60,6 @@ td {
     font-family: arial;
     font-weight: 700;
     color: red;
-    background-color: transparent;
 }
 
 .table tbody td {
