@@ -63,8 +63,8 @@ td {
 }
 
 .table tbody td {
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
+    border-bottom: 1px solid white;
+    border-left: 1px solid white;
     background-color: transparent
 }
 
