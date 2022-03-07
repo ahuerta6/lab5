@@ -1,5 +1,7 @@
 body {
     background-image: url(https://chrome.google.com/webstore/detail/dark-space/idmnciiknelklflhdlnkokcoihkidkln);
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 0;
 }
 
