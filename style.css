@@ -3,6 +3,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
+    font-family: 'Smooch Sans', sans-serif;
 }
 
 h1 {
@@ -16,7 +17,7 @@ div {
 }
 
 p {
-    font-family: arial;
+    font-family: 'Smooch Sans', sans-serif;
     font-style: italic;
     font-weight: 400;
     color: white;
@@ -35,7 +36,7 @@ p {
     background-color: black;
     color: white;
     text-align: left;
-    font-family: arial;
+    font-family: 'Smooch Sans', sans-serif;
     font-weight: 700;
 }
 
@@ -57,7 +58,7 @@ td {
 }
 
 .table tbody tr {
-    font-family: arial;
+    font-family: 'Smooch Sans', sans-serif;
     font-weight: 700;
     color: red;
 }
