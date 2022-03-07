@@ -30,7 +30,9 @@ p {
 }
 
 .table {
-    color: black; 
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .table thead tr {
@@ -70,7 +72,5 @@ td {
     border: 1px solid white;
     border-collapse: inherit;
     background-color: transparent;
-    margin-left: auto;
-    margin-right: auto;
 }
 
